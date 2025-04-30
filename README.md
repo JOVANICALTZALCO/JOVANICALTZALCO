@@ -9,6 +9,7 @@ JOVANICALTZALCO/JOVANICALTZALCO is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 My portfolio in data analyst projects:
+https://www.kaggle.com/jovacv ← My profile in Kaggle ☺
 - 
 -
 -
